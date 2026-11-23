@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Farol do Cabo Branco</title>
+  <desc id="desc">Símbolo monocromático em traços geométricos, com torre, faixa, asas e ondas.</desc>
+  <g transform="translate(0 -3)" stroke="#16435D" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 156 116 31h24l12 125" fill="none"/>
+    <path d="m108 119 40 0 4 41-24 5-24-5Z" fill="#16435D" stroke="none"/>
+    <path d="M28 144 128 165 228 144v12l-87 23 4 28h-34l4-28-87-23Z" fill="none"/>
+    <path d="M128 23v8" fill="none" stroke-width="3"/>
+    <path d="M126 187v9" fill="none" stroke-width="5"/>
+    <path d="M67 226c20-12 40 12 61 0s41-12 61 0" fill="none" stroke-width="3.5"/>
+    <path d="M80 241c16-9 32 9 48 0s32-9 48 0" fill="none" stroke-width="3.5"/>
+  </g>
+</svg>
+
